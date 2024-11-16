@@ -1,2 +1,2 @@
-# Html-css-templet-one
-templet-one
+# Html-Css-Templet-one
+project-one
